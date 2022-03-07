@@ -1,0 +1,10 @@
+D:\.netWorkspace\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+D:\.netWorkspace\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+D:\.netWorkspace\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+D:\.netWorkspace\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb

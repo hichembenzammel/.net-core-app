@@ -1,0 +1,10 @@
+D:\.netWorkspace\ProductStore\PS.Dmoain\bin\Debug\netcoreapp3.1\PS.Dmoain.deps.json
+D:\.netWorkspace\ProductStore\PS.Dmoain\bin\Debug\netcoreapp3.1\PS.Dmoain.dll
+D:\.netWorkspace\ProductStore\PS.Dmoain\bin\Debug\netcoreapp3.1\PS.Dmoain.pdb
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.AssemblyInfoInputs.cache
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.AssemblyInfo.cs
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.csproj.CoreCompileInputs.cache
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.dll
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.pdb
+D:\.netWorkspace\ProductStore\PS.Dmoain\obj\Debug\netcoreapp3.1\PS.Dmoain.csproj.AssemblyReference.cache

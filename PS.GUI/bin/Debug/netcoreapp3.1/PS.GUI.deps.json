@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PS.GUI/1.0.0": {
+        "dependencies": {
+          "PS.Dmoain": "1.0.0",
+          "PS.Service": "1.0.0"
+        },
+        "runtime": {
+          "PS.GUI.dll": {}
+        }
+      },
+      "PS.Dmoain/1.0.0": {
+        "runtime": {
+          "PS.Dmoain.dll": {}
+        }
+      },
+      "PS.Service/1.0.0": {
+        "dependencies": {
+          "PS.Dmoain": "1.0.0"
+        },
+        "runtime": {
+          "PS.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PS.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PS.Dmoain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PS.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

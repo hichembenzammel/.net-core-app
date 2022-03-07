@@ -1,0 +1,13 @@
+D:\.netWorkspace\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.deps.json
+D:\.netWorkspace\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.dll
+D:\.netWorkspace\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Service.pdb
+D:\.netWorkspace\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Dmoain.dll
+D:\.netWorkspace\ProductStore\PS.Service\bin\Debug\netcoreapp3.1\PS.Dmoain.pdb
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.AssemblyReference.cache
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfoInputs.cache
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.AssemblyInfo.cs
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CoreCompileInputs.cache
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.csproj.CopyComplete
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.dll
+D:\.netWorkspace\ProductStore\PS.Service\obj\Debug\netcoreapp3.1\PS.Service.pdb
